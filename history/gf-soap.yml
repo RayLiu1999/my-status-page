@@ -1,7 +1,7 @@
-url: https://gf-soap.com
+url: $SOAP
 status: up
 code: 200
-responseTime: 309
-lastUpdated: 2026-07-10T15:23:28.092Z
+responseTime: 253
+lastUpdated: 2026-07-10T15:45:32.374Z
 startTime: 2026-07-10T15:23:27.780Z
 generator: Upptime <https://github.com/upptime/upptime>
