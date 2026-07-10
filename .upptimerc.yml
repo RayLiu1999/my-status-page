@@ -7,6 +7,8 @@ sites:
     url: $MY_BLOG
   - name: gf-soap
     url: $SOAP
+  - name: broken-test
+    url: https://fjidosjc.om
 
 assignees:
   - RayLiu1999
