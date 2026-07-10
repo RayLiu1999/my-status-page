@@ -18,7 +18,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Ray Liu's Status Page
-  introTitle: "**Ray's Status Page** — 服務即時狀態監控"
+  introTitle: "**Ray Liu's Status Page** — 服務即時狀態監控"
   introMessage: 這裡即時顯示我所監控的服務目前狀態，資料每 5 分鐘更新一次。
   navbar:
     - title: Status
