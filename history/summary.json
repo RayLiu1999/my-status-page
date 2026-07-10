@@ -1,8 +1,8 @@
 [
   {
     "name": "blog",
-    "url": "https://blog.liu-yucheng.com",
-    "icon": "https://icons.duckduckgo.com/ip3/blog.liu-yucheng.com.ico",
+    "url": "$MY_BLOG",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 215,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
+    "time": 204,
+    "timeDay": 204,
+    "timeWeek": 204,
+    "timeMonth": 204,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   },
   {
     "name": "gf-soap",
-    "url": "https://gf-soap.com",
-    "icon": "https://icons.duckduckgo.com/ip3/gf-soap.com.ico",
+    "url": "$SOAP",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gf-soap",
     "status": "up",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 309,
-    "timeWeek": 309,
-    "timeMonth": 309,
-    "timeYear": 309,
+    "time": 281,
+    "timeDay": 281,
+    "timeWeek": 281,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   }
 ]
