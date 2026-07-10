@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "broken-test",
     "status": "up",
-    "uptime": "3.77%",
-    "uptimeDay": "3.77%",
-    "uptimeWeek": "3.77%",
-    "uptimeMonth": "3.77%",
-    "uptimeYear": "3.77%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 110,
     "timeDay": 110,
     "timeWeek": 110,
     "timeMonth": 110,
     "timeYear": 110,
-    "dailyMinutesDown": {
-      "2026-07-10": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
