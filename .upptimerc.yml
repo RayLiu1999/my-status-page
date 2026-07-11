@@ -7,8 +7,6 @@ sites:
     url: $MY_BLOG
   - name: gf-soap
     url: $SOAP
-  - name: broken-test
-    url: https://xffds.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
