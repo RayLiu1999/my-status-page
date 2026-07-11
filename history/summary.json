@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 240,
-    "timeWeek": 240,
-    "timeMonth": 240,
-    "timeYear": 240,
+    "time": 241,
+    "timeDay": 241,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   },
   {
@@ -28,32 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 444,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444,
+    "time": 436,
+    "timeDay": 436,
+    "timeWeek": 436,
+    "timeMonth": 436,
+    "timeYear": 436,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "broken-test",
-    "url": "https://xffds.com",
-    "icon": "https://icons.duckduckgo.com/ip3/xffds.com.ico",
-    "slug": "broken-test",
-    "status": "down",
-    "uptime": "6.81%",
-    "uptimeDay": "6.81%",
-    "uptimeWeek": "6.81%",
-    "uptimeMonth": "6.81%",
-    "uptimeYear": "6.81%",
-    "time": 154,
-    "timeDay": 154,
-    "timeWeek": 154,
-    "timeMonth": 154,
-    "timeYear": 154,
-    "dailyMinutesDown": {
-      "2026-07-11": 47,
-      "2026-07-10": 444
-    }
   }
 ]
