@@ -4,21 +4,22 @@
     "url": "$MY_BLOG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.84%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "94.82%",
     "uptimeMonth": "98.46%",
     "uptimeYear": "98.46%",
-    "time": 243,
-    "timeDay": 161,
-    "timeWeek": 236,
-    "timeMonth": 243,
-    "timeYear": 243,
+    "time": 922,
+    "timeDay": 15137,
+    "timeWeek": 3224,
+    "timeMonth": 922,
+    "timeYear": 922,
     "dailyMinutesDown": {
       "2026-07-17": 89,
       "2026-08-02": 434,
-      "2026-08-01": 86
+      "2026-08-01": 86,
+      "2026-08-07": 2
     }
   },
   {
@@ -26,21 +27,22 @@
     "url": "$SOAP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gf-soap",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.84%",
     "uptimeMonth": "98.46%",
     "uptimeYear": "98.46%",
-    "time": 440,
-    "timeDay": 277,
-    "timeWeek": 433,
-    "timeMonth": 440,
-    "timeYear": 440,
+    "time": 1114,
+    "timeDay": 15188,
+    "timeWeek": 3399,
+    "timeMonth": 1114,
+    "timeYear": 1114,
     "dailyMinutesDown": {
       "2026-07-17": 89,
       "2026-08-02": 434,
-      "2026-08-01": 86
+      "2026-08-01": 86,
+      "2026-08-07": 0
     }
   }
 ]
