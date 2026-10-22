@@ -1,7 +1,7 @@
 url: $SOAP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-10-22T01:22:35.524Z
+status: up
+code: 200
+responseTime: 659
+lastUpdated: 2026-10-22T17:33:10.270Z
 startTime: 2026-07-10T15:23:27.780Z
 generator: Upptime <https://github.com/upptime/upptime>
